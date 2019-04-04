@@ -1,0 +1,2 @@
+* playing shooter games
+* programming
